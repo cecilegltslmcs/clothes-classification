@@ -1,0 +1,6 @@
+ipykernel
+pillow
+keras
+numpy
+scipy
+tensorflow
